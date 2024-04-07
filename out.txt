@@ -1,0 +1,2 @@
+Run `zig build test` to run the tests.
+あいうえお

@@ -1,0 +1,3 @@
+# Ignore unnecessary directories
+zig-cache/
+zig-out/
